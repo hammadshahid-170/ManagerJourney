@@ -1,0 +1,32 @@
+
+.box-p
+{
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.box-p1
+{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.box-bg
+{
+    background: #e6f3f2;
+}
+.box-bg2
+{
+    background: #fff;
+}
+.customcss {
+    padding-bottom: 0px !important;
+}
+@media (max-width: 1400px) and (min-width: 1200px){
+.box-p-bottom
+{
+    padding-bottom: 31px !important;
+}
+}
+.customlink{
+    color: black !important;
+    text-decoration: none !important;
+}

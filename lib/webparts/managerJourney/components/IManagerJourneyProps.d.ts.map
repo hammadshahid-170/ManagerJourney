@@ -1,0 +1,1 @@
+{"version":3,"file":"IManagerJourneyProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/managerJourney/components/IManagerJourneyProps.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAC5D,MAAM,WAAW,oBAAoB;IACnC,WAAW,EAAE,MAAM,CAAC;IACpB,OAAO,EAAE,cAAc,CAAC;IACxB,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;CACjB"}
